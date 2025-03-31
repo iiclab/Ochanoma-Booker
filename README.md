@@ -12,7 +12,7 @@
 
 2. Clone the repository
     ```bash
-    git clone https://github.com/Kitsuya0828/Ochanoma-Booker.git
+    git clone https://github.com/iiclab/Ochanoma-Booker.git
     cd Ochanoma-Booker
     ```
 
