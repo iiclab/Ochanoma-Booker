@@ -42,7 +42,7 @@
 
 6. Run the app
     ```bash
-    # env=dev python3 app.py  # development
-    # env=qa python3 app.py # staging
-    env=prod python3 app.py # production
+    # env=dev python3 app.py # development
+    # env=qa python3 app.py  # staging
+    env=prod python3 app.py  # production
     ```
